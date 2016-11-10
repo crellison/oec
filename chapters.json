@@ -1,0 +1,368 @@
+{
+  "1" : {
+    "title" : "Introduction to Outdoor Emergency Care",
+    "topics" : [
+      "National Ski Patrol's Early Years",
+      "OEC Today",
+      "Ethical and Legal Issues"
+    ]
+  },
+  "2" : {
+    "title" : "Emergency Care Systems",
+    "topics" : [
+      "The History of Emergency Care",
+      "Levels of Emergency Personnel",
+      "Emergency Facilities",
+      "Continutity of Care",
+      "The Importance of Commonality in Emergency Care",
+      "The Relationship of Emergency Care Systems to Public Health",
+      "The Role of Research in Emergency Care Systems",
+      "Communication Systems in Emergency Care Systems",
+      "Medical Oversight in Emergency Care Systems",
+      "Emergency Care Protocols",
+      "The Importance of Documentation in Emergency Care",
+      "Quality Improvement in Emergency Care Systems",
+      "Continuing Education in Emergency Care"
+    ]
+  },
+  "3" : {
+    "title" : "Rescue Basics",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Preparing to Work Outdoors",
+      "Protecting Yourself from Disease",
+      "Assessing Emergency Situations",
+      "Dealing with Hazardous Materials",
+      "Crime Scene Management",
+      "Dealing with Stress"
+    ]
+  },
+  "4" : {
+    "title" : "Incident Command and Triage",
+    "topics" : [
+      "The National Incident Management System",
+      "Incident Command System",
+      "ICS and the OEC Technician",
+      "Triage"
+    ]
+  },
+  "5" : {
+    "title" : "Moving, Lifting, and Transporting Patients",
+    "topics" : [
+      "The Body Mechanics of Lifting",
+      "Devices and Equipment",
+      "Moving a Patient",
+      "Lifting the Patient",
+      "Transporting Patients",
+      "CPR During Transport"
+    ]
+  },
+  "6" : {
+    "title" : "Anatomy and Physiology",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Body Cavities",
+      "Body Systems",
+      "Homeostasis"
+    ]
+  },
+  "7" : {
+    "title" : "Patient Assessment",
+    "topics" : [
+      "Scene Size-Up",
+      "Patient Assessment"
+    ]
+  },
+  "8" : {
+    "title" : "Medical Communications and Documentation",
+    "topics" : [
+      "Communication Basics",
+      "Forms of Communication",
+      "Medical Communications"
+    ]
+  },
+  "9" : {
+    "title" : "Airway Management",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Airway Management",
+      "Oxygen Therapy"
+    ]
+  },
+  "10" : {
+    "title" : "Shock",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Types of Shock",
+      "Factors Affecting Shock", 
+      "Assessment",
+      "Management"
+    ]
+  },
+  "11" : {
+    "title" : "Altered Mental Status",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Altered Mental Status",
+      "Violent Behavior and Altered Mental Status"
+    ]
+  },
+  "12" : {
+    "title" : "Substance Abuse and Poisoning",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Commonly Abused Substances and Poison-Related Emergencies",
+      "Assessment",
+      "Management"
+    ]
+  },
+  "13" : {
+    "title" : "Respiratory Emergencies",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Common Respiratory Emergencies",
+      "Assessment",
+      "Management",
+      "The use of Inhalers"
+    ]
+  },
+  "14" : {
+    "title" : "Allergies and Anaphylaxis",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Common Causes of Allergies and Anaphylaxis",
+      "Assessment",
+      "Management"
+    ]
+  },
+  "15" : {
+    "title" : "Cardiovascular Emergencies",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Cardiovascular Emergencies",
+      "Assessment",
+      "Management"
+    ]
+  },
+  "16" : {
+    "title" : "Gastrointestinal and Genitourinary Emergencies",
+    "topics" : [
+      "GI/GU Anatomy and Physiology",
+      "The Acute Abdomen",
+      "Common Gastrointestinal Ailments",
+      "Assessment",
+      "Management"
+    ]
+  },
+  "17" : {
+    "title" : "Principles of Trauma",
+    "topics" : [
+      "Kinematics",
+      "Pathophysiology and Mechanisms of Injury",
+      "The Three Phases of Injury",
+      "Trauma Systems",
+      "Assessment",
+      "Management"
+    ]
+  },
+  "18" : {
+    "title" : "Soft-Tissue Injuries",
+    "topics" : [
+      "Anatomy and Physiology of Skin",
+      "Types of Soft-Tissue Injuries",
+      "Assessment",
+      "Management"
+    ]
+  },
+  "19" : {
+    "title" : "Burns",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Types of Burns",
+      "The Classification of Burns",
+      "Assessment",
+      "Management",
+      "Thermal Burns",
+      "Further Care and Transport"
+    ]
+  },
+  "20" : {
+    "title" : "Musculoskeletal Injuries",
+    "topics" : [
+      "Anatomy and Physiology",
+      "The Physiology of Movement",
+      "Common Musculoskeletal Injuries",
+      "Assessment",
+      "Assessment of Lower Extremity Injuries",
+      "Axial Skeletal Injuries",
+      "Management",
+      "Boot Removal"
+    ]
+  },
+  "21" : {
+    "title" : "Head and Spine Injuries",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Common Mechanisms of Injury",
+      "Increased Intracranial Pressue (ICP)",
+      "Coup-Contrecoup Injury",
+      "Common Injuries",
+      "Head and Brain Injuries",
+      "Spinal Injuries",
+      "Patient Assessment",
+      "Mini-Neurologic Exam",
+      "Management"
+    ]
+  },
+  "22" : {
+    "title" : "Face, Eye, and Neck Injuries",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Common Face, Eye, and Neck Injuries",
+      "Assessment",
+      "Management"
+    ]
+  },
+  "23" : {
+    "title" : "Thoracic Trauma",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Chest Injuries",
+      "Assessment",
+      "Management"
+    ]
+  },
+  "24" : {
+    "title" : "Abdominal and Pelvic Injuries",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Common Abdominal and Pelvic Injuries",
+      "Assessment",
+      "Management"
+    ]
+  },
+  "25" : {
+    "title" : "Cold-Related Emergencies",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Common Cold-Related Emergencies",
+      "Rescuer Preparation for Cold Weather Rescue",
+      "Assessment of Cold Injuries",
+      "Management",
+      "Evacuation and Transport"
+    ]
+  },
+  "26" : {
+    "title" : "Heat Related Emergencies",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Common Heat Related Emergencies",
+      "Assessment",
+      "Management"
+    ]
+  },
+  "27" : {
+    "title" : "Plant and Animal Emergencies",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Adverse Effects and Emergencies from Common Plants and Fungi",
+      "Adverse Effects from Various Animals",
+      "Assessment",
+      "Management"
+    ]
+  },
+  "28" : {
+    "title" : "Altitude-Related Emergencies",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Altitude-Related Problems",
+      "Prevention of ALtitude Illnesses",
+      "Patient Assessment",
+      "Patient Management"
+    ]
+  },
+  "29" : {
+    "title" : "Water Emergencies",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Common Water Emergencies",
+      "Preventing Water Emergencies",
+      "Patient Assessment",
+      "Patient Management"
+    ]
+  },
+  "30" : {
+    "title" : "Pediatric Emergencies",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Human Growth and Development",
+      "Common Pediatric Illnesses and Injuries",
+      "Assessment",
+      "Management"
+    ]
+  },
+  "31" : {
+    "title" : "Geriatric Emergencies",
+    "topics" : [
+      "Physiologic Changes of Aging",
+      "Common Geriatric Illnesses and Conditions",
+      "Medication Use in the Elderly",
+      "Trauma Considerations in Elderly Patients",
+      "Elder Abuse",
+      "Additional Considerations",
+      "Assessment",
+      "Management"
+    ]
+  },
+  "32" : {
+    "title" : "Outdoor Adaptive Athletes",
+    "topics" : [
+      "Common Disabilities",
+      "Adaptive Equipment",
+      "Assessment",
+      "Management"
+    ]
+  },
+  "33" : {
+    "title" : "Behavioral Emergencies and Crisis Response",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Common Behavioral Emergencies",
+      "Death and Grief",
+      "Assessment",
+      "Management"
+    ]
+  },
+  "34" : {
+    "title" : "Obstetric and Gynecologic Emergencies",
+    "topics" : [
+      "Anatomy and Physiology",
+      "Common Obstetric and Gynecologic Emergencies",
+      "Pregnancy: Normal Physiologic Changes",
+      "Complications of Pregnancy",
+      "Childbirth",
+      "Basic Care of Newborns",
+      "Trauma During Pregnancy",
+      "Assessment",
+      "Management"
+    ]
+  },
+  "35" : {
+    "title" : "Special Operations and Ambulance Operations",
+    "topics" : [
+      "Ambulance Operations",
+      "Disaster Response",
+      "Hazardous Materials Response",
+      "Search and Rescue",
+      "Fire Ground Operations"
+    ]
+  },
+  "36" : {
+    "title" : "ALS Interface",
+    "topics" : [
+      "Advanced Life Support",
+      "Working and Moving as a Team",
+      "Ambulance and Stretcher Operation"
+    ]
+  },
+}
