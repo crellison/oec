@@ -61,15 +61,6 @@ h1,h2,h3,h4,h5,h6,p,a {
   margin-top: 0;
 }
 
-.links > a:hover {
-  color: #2e2e2e;
-  background: #fee715;
-}
-
-.links > a:hover p.title{
-  color: #2e2e2e;
-}
-
 .footer {
   font-size: 1em;
   text-align: center;
@@ -88,5 +79,14 @@ h1,h2,h3,h4,h5,h6,p,a {
     .links > a {
       width: 15vw;
       height: 15vw;
+    }
+
+    .links > a:hover {
+      color: #2e2e2e;
+      background: #fee715;
+    }
+
+    .links > a:hover p.title{
+      color: #2e2e2e;
     }
 }
