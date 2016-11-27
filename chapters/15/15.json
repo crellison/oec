@@ -1,9 +1,21 @@
 {
   "title": "Cardiovascular Emergencies",
   "topics": [
-    "Anatomy and Physiology",
-    "Cardiovascular Emergencies",
-    "Assessment",
-    "Management"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "Cardiovascular Emergencies",
+      "slides": []
+    },
+    {
+      "topic": "Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Management",
+      "slides": []
+    }
   ]
 }

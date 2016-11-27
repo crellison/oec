@@ -1,7 +1,13 @@
 {
   "title": "Patient Assessment",
   "topics": [
-    "Scene Size-Up",
-    "Patient Assessment"
+    {
+      "topic": "Scene Size-Up",
+      "slides": []
+    },
+    {
+      "topic": "Patient Assessment",
+      "slides": []
+    }
   ]
 }

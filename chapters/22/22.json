@@ -1,9 +1,21 @@
 {
   "title": "Face, Eye, and Neck Injuries",
   "topics": [
-    "Anatomy and Physiology",
-    "Common Face, Eye, and Neck Injuries",
-    "Assessment",
-    "Management"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "Common Face, Eye, and Neck Injuries",
+      "slides": []
+    },
+    {
+      "topic": "Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Management",
+      "slides": []
+    }
   ]
 }

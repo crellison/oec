@@ -1,10 +1,25 @@
 {
   "title": "Water Emergencies",
   "topics": [
-    "Anatomy and Physiology",
-    "Common Water Emergencies",
-    "Preventing Water Emergencies",
-    "Patient Assessment",
-    "Patient Management"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "Common Water Emergencies",
+      "slides": []
+    },
+    {
+      "topic": "Preventing Water Emergencies",
+      "slides": []
+    },
+    {
+      "topic": "Patient Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Patient Management",
+      "slides": []
+    }
   ]
 }

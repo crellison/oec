@@ -1,9 +1,21 @@
 {
   "title": "Incident Command and Triage",
   "topics": [
-    "The National Incident Management System",
-    "Incident Command System",
-    "ICS and the OEC Technician",
-    "Triage"
+    {
+      "topic": "The National Incident Management System",
+      "slides": []
+    },
+    {
+      "topic": "Incident Command System",
+      "slides": []
+    },
+    {
+      "topic": "ICS and the OEC Technician",
+      "slides": []
+    },
+    {
+      "topic": "Triage",
+      "slides": []
+    }
   ]
 }

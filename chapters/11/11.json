@@ -1,8 +1,17 @@
 {
   "title": "Altered Mental Status",
   "topics": [
-    "Anatomy and Physiology",
-    "Altered Mental Status",
-    "Violent Behavior and Altered Mental Status"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "Altered Mental Status",
+      "slides": []
+    },
+    {
+      "topic": "Violent Behavior and Altered Mental Status",
+      "slides": []
+    }
   ]
 }

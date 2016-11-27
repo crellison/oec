@@ -1,11 +1,29 @@
 {
   "title": "Moving, Lifting, and Transporting Patients",
   "topics": [
-    "The Body Mechanics of Lifting",
-    "Devices and Equipment",
-    "Moving a Patient",
-    "Lifting the Patient",
-    "Transporting Patients",
-    "CPR During Transport"
+    {
+      "topic": "The Body Mechanics of Lifting",
+      "slides": []
+    },
+    {
+      "topic": "Devices and Equipment",
+      "slides": []
+    },
+    {
+      "topic": "Moving a Patient",
+      "slides": []
+    },
+    {
+      "topic": "Lifting the Patient",
+      "slides": []
+    },
+    {
+      "topic": "Transporting Patients",
+      "slides": []
+    },
+    {
+      "topic": "CPR During Transport",
+      "slides": []
+    }
   ]
 }

@@ -1,10 +1,25 @@
 {
   "title": "Gastrointestinal and Genitourinary Emergencies",
   "topics": [
-    "GI/GU Anatomy and Physiology",
-    "The Acute Abdomen",
-    "Common Gastrointestinal Ailments",
-    "Assessment",
-    "Management"
+    {
+      "topic": "GI/GU Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "The Acute Abdomen",
+      "slides": []
+    },
+    {
+      "topic": "Common Gastrointestinal Ailments",
+      "slides": []
+    },
+    {
+      "topic": "Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Management",
+      "slides": []
+    }
   ]
 }

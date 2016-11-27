@@ -1,9 +1,21 @@
 {
   "title": "Thoracic Trauma",
   "topics": [
-    "Anatomy and Physiology",
-    "Chest Injuries",
-    "Assessment",
-    "Management"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "Chest Injuries",
+      "slides": []
+    },
+    {
+      "topic": "Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Management",
+      "slides": []
+    }
   ]
 }

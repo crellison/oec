@@ -1,13 +1,37 @@
 {
   "title": "Musculoskeletal Injuries",
   "topics": [
-    "Anatomy and Physiology",
-    "The Physiology of Movement",
-    "Common Musculoskeletal Injuries",
-    "Assessment",
-    "Assessment of Lower Extremity Injuries",
-    "Axial Skeletal Injuries",
-    "Management",
-    "Boot Removal"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "The Physiology of Movement",
+      "slides": []
+    },
+    {
+      "topic": "Common Musculoskeletal Injuries",
+      "slides": []
+    },
+    {
+      "topic": "Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Assessment of Lower Extremity Injuries",
+      "slides": []
+    },
+    {
+      "topic": "Axial Skeletal Injuries",
+      "slides": []
+    },
+    {
+      "topic": "Management",
+      "slides": []
+    },
+    {
+      "topic": "Boot Removal",
+      "slides": []
+    }
   ]
 }

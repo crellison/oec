@@ -1,10 +1,25 @@
 {
   "title": "Respiratory Emergencies",
   "topics": [
-    "Anatomy and Physiology",
-    "Common Respiratory Emergencies",
-    "Assessment",
-    "Management",
-    "The use of Inhalers"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "Common Respiratory Emergencies",
+      "slides": []
+    },
+    {
+      "topic": "Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Management",
+      "slides": []
+    },
+    {
+      "topic": "The use of Inhalers",
+      "slides": []
+    }
   ]
 }

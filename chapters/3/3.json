@@ -1,12 +1,33 @@
 {
   "title": "Rescue Basics",
   "topics": [
-    "Anatomy and Physiology",
-    "Preparing to Work Outdoors",
-    "Protecting Yourself from Disease",
-    "Assessing Emergency Situations",
-    "Dealing with Hazardous Materials",
-    "Crime Scene Management",
-    "Dealing with Stress"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "Preparing to Work Outdoors",
+      "slides": []
+    },
+    {
+      "topic": "Protecting Yourself from Disease",
+      "slides": []
+    },
+    {
+      "topic": "Assessing Emergency Situations",
+      "slides": []
+    },
+    {
+      "topic": "Dealing with Hazardous Materials",
+      "slides": []
+    },
+    {
+      "topic": "Crime Scene Management",
+      "slides": []
+    },
+    {
+      "topic": "Dealing with Stress",
+      "slides": []
+    }
   ]
 }

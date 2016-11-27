@@ -1,10 +1,25 @@
 {
   "title": "Shock",
   "topics": [
-    "Anatomy and Physiology",
-    "Types of Shock",
-    "Factors Affecting Shock",
-    "Assessment",
-    "Management"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "Types of Shock",
+      "slides": []
+    },
+    {
+      "topic": "Factors Affecting Shock",
+      "slides": []
+    },
+    {
+      "topic": "Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Management",
+      "slides": []
+    }
   ]
 }

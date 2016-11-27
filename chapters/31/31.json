@@ -1,13 +1,37 @@
 {
   "title": "Geriatric Emergencies",
   "topics": [
-    "Physiologic Changes of Aging",
-    "Common Geriatric Illnesses and Conditions",
-    "Medication Use in the Elderly",
-    "Trauma Considerations in Elderly Patients",
-    "Elder Abuse",
-    "Additional Considerations",
-    "Assessment",
-    "Management"
+    {
+      "topic": "Physiologic Changes of Aging",
+      "slides": []
+    },
+    {
+      "topic": "Common Geriatric Illnesses and Conditions",
+      "slides": []
+    },
+    {
+      "topic": "Medication Use in the Elderly",
+      "slides": []
+    },
+    {
+      "topic": "Trauma Considerations in Elderly Patients",
+      "slides": []
+    },
+    {
+      "topic": "Elder Abuse",
+      "slides": []
+    },
+    {
+      "topic": "Additional Considerations",
+      "slides": []
+    },
+    {
+      "topic": "Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Management",
+      "slides": []
+    }
   ]
 }

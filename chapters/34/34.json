@@ -1,14 +1,41 @@
 {
   "title": "Obstetric and Gynecologic Emergencies",
   "topics": [
-    "Anatomy and Physiology",
-    "Common Obstetric and Gynecologic Emergencies",
-    "Pregnancy: Normal Physiologic Changes",
-    "Complications of Pregnancy",
-    "Childbirth",
-    "Basic Care of Newborns",
-    "Trauma During Pregnancy",
-    "Assessment",
-    "Management"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "Common Obstetric and Gynecologic Emergencies",
+      "slides": []
+    },
+    {
+      "topic": "Pregnancy: Normal Physiologic Changes",
+      "slides": []
+    },
+    {
+      "topic": "Complications of Pregnancy",
+      "slides": []
+    },
+    {
+      "topic": "Childbirth",
+      "slides": []
+    },
+    {
+      "topic": "Basic Care of Newborns",
+      "slides": []
+    },
+    {
+      "topic": "Trauma During Pregnancy",
+      "slides": []
+    },
+    {
+      "topic": "Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Management",
+      "slides": []
+    }
   ]
 }

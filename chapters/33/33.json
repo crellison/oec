@@ -1,10 +1,25 @@
 {
   "title": "Behavioral Emergencies and Crisis Response",
   "topics": [
-    "Anatomy and Physiology",
-    "Common Behavioral Emergencies",
-    "Death and Grief",
-    "Assessment",
-    "Management"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "Common Behavioral Emergencies",
+      "slides": []
+    },
+    {
+      "topic": "Death and Grief",
+      "slides": []
+    },
+    {
+      "topic": "Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Management",
+      "slides": []
+    }
   ]
 }

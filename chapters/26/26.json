@@ -1,9 +1,21 @@
 {
   "title": "Heat Related Emergencies",
   "topics": [
-    "Anatomy and Physiology",
-    "Common Heat Related Emergencies",
-    "Assessment",
-    "Management"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "Common Heat Related Emergencies",
+      "slides": []
+    },
+    {
+      "topic": "Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Management",
+      "slides": []
+    }
   ]
 }

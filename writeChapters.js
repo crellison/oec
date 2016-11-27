@@ -1,15 +1,19 @@
 const fs = require('fs');
 const chapters = require('./chapters.json');
 
-const lineBreak = '\n\n---\n\n'
+const lineBreak = (pattern) => `\n\n${pattern.repeat(3)}\n\n`
 
 function makeMarkdown() {
   Object.keys(chapters).forEach(chapterNum => {
     var chapterPath = `./chapters/${chapterNum}/${chapterNum}.json`;
     var chapter = require(chapterPath)
-    var data = `# Chapter ${chapterNum}\n## ${chapter.title}${lineBreak}`;
+    var data = `# Chapter ${chapterNum}\n## ${chapter.title}${lineBreak('-')}`;
     chapter.topics.forEach(topic => {
-      data += `## ${topic}${lineBreak}`;
+      data += `## ${topic.topic}`;
+      topic.slides.forEach(slide => {
+        data += `${lineBreak('^')}${slide}`;
+      });
+      data += lineBreak('-')
     });
     var filename = `./chapters/${chapterNum}/${chapterNum}.md`;
     fs.writeFile(filename, data, err => {
@@ -20,11 +24,19 @@ function makeMarkdown() {
 
 function splitJSON() {
   Object.keys(chapters).forEach(chapterNum => {
-    var filename = `./chapters/${chapterNum}.json`;
-    fs.writeFile(filename, JSON.stringify(chapters[chapterNum], null, 2), err => {
+    var current = chapters[chapterNum];
+    current.topics = current.topics.map(topic => {
+      return {
+        topic: topic,
+        slides: []
+      };
+    })
+    var filename = `./chapters/${chapterNum}/${chapterNum}.json`;
+    fs.writeFile(filename, JSON.stringify(current, null, 2), err => {
       err ? console.log(err) : console.log(`Saved ${filename}`);
     })
   })
 }
 
+// splitJSON()
 makeMarkdown()

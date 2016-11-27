@@ -1,12 +1,33 @@
 {
   "title": "Burns",
   "topics": [
-    "Anatomy and Physiology",
-    "Types of Burns",
-    "The Classification of Burns",
-    "Assessment",
-    "Management",
-    "Thermal Burns",
-    "Further Care and Transport"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "Types of Burns",
+      "slides": []
+    },
+    {
+      "topic": "The Classification of Burns",
+      "slides": []
+    },
+    {
+      "topic": "Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Management",
+      "slides": []
+    },
+    {
+      "topic": "Thermal Burns",
+      "slides": []
+    },
+    {
+      "topic": "Further Care and Transport",
+      "slides": []
+    }
   ]
 }

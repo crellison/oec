@@ -1,9 +1,21 @@
 {
   "title": "Abdominal and Pelvic Injuries",
   "topics": [
-    "Anatomy and Physiology",
-    "Common Abdominal and Pelvic Injuries",
-    "Assessment",
-    "Management"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "Common Abdominal and Pelvic Injuries",
+      "slides": []
+    },
+    {
+      "topic": "Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Management",
+      "slides": []
+    }
   ]
 }

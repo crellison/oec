@@ -1,10 +1,25 @@
 {
   "title": "Pediatric Emergencies",
   "topics": [
-    "Anatomy and Physiology",
-    "Human Growth and Development",
-    "Common Pediatric Illnesses and Injuries",
-    "Assessment",
-    "Management"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "Human Growth and Development",
+      "slides": []
+    },
+    {
+      "topic": "Common Pediatric Illnesses and Injuries",
+      "slides": []
+    },
+    {
+      "topic": "Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Management",
+      "slides": []
+    }
   ]
 }

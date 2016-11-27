@@ -1,9 +1,21 @@
 {
   "title": "Anatomy and Physiology",
   "topics": [
-    "Anatomy and Physiology",
-    "Body Cavities",
-    "Body Systems",
-    "Homeostasis"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "Body Cavities",
+      "slides": []
+    },
+    {
+      "topic": "Body Systems",
+      "slides": []
+    },
+    {
+      "topic": "Homeostasis",
+      "slides": []
+    }
   ]
 }

@@ -1,15 +1,45 @@
 {
   "title": "Head and Spine Injuries",
   "topics": [
-    "Anatomy and Physiology",
-    "Common Mechanisms of Injury",
-    "Increased Intracranial Pressue (ICP)",
-    "Coup-Contrecoup Injury",
-    "Common Injuries",
-    "Head and Brain Injuries",
-    "Spinal Injuries",
-    "Patient Assessment",
-    "Mini-Neurologic Exam",
-    "Management"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "Common Mechanisms of Injury",
+      "slides": []
+    },
+    {
+      "topic": "Increased Intracranial Pressue (ICP)",
+      "slides": []
+    },
+    {
+      "topic": "Coup-Contrecoup Injury",
+      "slides": []
+    },
+    {
+      "topic": "Common Injuries",
+      "slides": []
+    },
+    {
+      "topic": "Head and Brain Injuries",
+      "slides": []
+    },
+    {
+      "topic": "Spinal Injuries",
+      "slides": []
+    },
+    {
+      "topic": "Patient Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Mini-Neurologic Exam",
+      "slides": []
+    },
+    {
+      "topic": "Management",
+      "slides": []
+    }
   ]
 }

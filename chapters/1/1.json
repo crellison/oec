@@ -1,8 +1,17 @@
 {
   "title": "Introduction to Outdoor Emergency Care",
   "topics": [
-    "National Ski Patrol's Early Years",
-    "OEC Today",
-    "Ethical and Legal Issues"
+    {
+      "topic": "National Ski Patrol's Early Years",
+      "slides": []
+    },
+    {
+      "topic": "OEC Today",
+      "slides": []
+    },
+    {
+      "topic": "Ethical and Legal Issues",
+      "slides": []
+    }
   ]
 }

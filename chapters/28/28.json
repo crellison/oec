@@ -1,10 +1,25 @@
 {
   "title": "Altitude-Related Emergencies",
   "topics": [
-    "Anatomy and Physiology",
-    "Altitude-Related Problems",
-    "Prevention of ALtitude Illnesses",
-    "Patient Assessment",
-    "Patient Management"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "Altitude-Related Problems",
+      "slides": []
+    },
+    {
+      "topic": "Prevention of ALtitude Illnesses",
+      "slides": []
+    },
+    {
+      "topic": "Patient Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Patient Management",
+      "slides": []
+    }
   ]
 }

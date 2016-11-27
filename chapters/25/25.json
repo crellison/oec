@@ -1,11 +1,29 @@
 {
   "title": "Cold-Related Emergencies",
   "topics": [
-    "Anatomy and Physiology",
-    "Common Cold-Related Emergencies",
-    "Rescuer Preparation for Cold Weather Rescue",
-    "Assessment of Cold Injuries",
-    "Management",
-    "Evacuation and Transport"
+    {
+      "topic": "Anatomy and Physiology",
+      "slides": []
+    },
+    {
+      "topic": "Common Cold-Related Emergencies",
+      "slides": []
+    },
+    {
+      "topic": "Rescuer Preparation for Cold Weather Rescue",
+      "slides": []
+    },
+    {
+      "topic": "Assessment of Cold Injuries",
+      "slides": []
+    },
+    {
+      "topic": "Management",
+      "slides": []
+    },
+    {
+      "topic": "Evacuation and Transport",
+      "slides": []
+    }
   ]
 }

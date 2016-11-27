@@ -1,10 +1,25 @@
 {
   "title": "Special Operations and Ambulance Operations",
   "topics": [
-    "Ambulance Operations",
-    "Disaster Response",
-    "Hazardous Materials Response",
-    "Search and Rescue",
-    "Fire Ground Operations"
+    {
+      "topic": "Ambulance Operations",
+      "slides": []
+    },
+    {
+      "topic": "Disaster Response",
+      "slides": []
+    },
+    {
+      "topic": "Hazardous Materials Response",
+      "slides": []
+    },
+    {
+      "topic": "Search and Rescue",
+      "slides": []
+    },
+    {
+      "topic": "Fire Ground Operations",
+      "slides": []
+    }
   ]
 }

@@ -1,9 +1,21 @@
 {
   "title": "Outdoor Adaptive Athletes",
   "topics": [
-    "Common Disabilities",
-    "Adaptive Equipment",
-    "Assessment",
-    "Management"
+    {
+      "topic": "Common Disabilities",
+      "slides": []
+    },
+    {
+      "topic": "Adaptive Equipment",
+      "slides": []
+    },
+    {
+      "topic": "Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Management",
+      "slides": []
+    }
   ]
 }

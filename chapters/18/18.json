@@ -1,9 +1,21 @@
 {
   "title": "Soft-Tissue Injuries",
   "topics": [
-    "Anatomy and Physiology of Skin",
-    "Types of Soft-Tissue Injuries",
-    "Assessment",
-    "Management"
+    {
+      "topic": "Anatomy and Physiology of Skin",
+      "slides": []
+    },
+    {
+      "topic": "Types of Soft-Tissue Injuries",
+      "slides": []
+    },
+    {
+      "topic": "Assessment",
+      "slides": []
+    },
+    {
+      "topic": "Management",
+      "slides": []
+    }
   ]
 }
