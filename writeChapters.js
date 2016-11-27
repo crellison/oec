@@ -3,6 +3,9 @@ const chapters = require('./chapters.json');
 
 const lineBreak = (pattern) => `\n\n${pattern.repeat(3)}\n\n`
 
+// keep JSON in chapters
+// send MarkDown files to dist folder
+
 function makeMarkdown() {
   Object.keys(chapters).forEach(chapterNum => {
     var chapterPath = `./chapters/${chapterNum}/${chapterNum}.json`;
