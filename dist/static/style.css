@@ -1,0 +1,67 @@
+/* 
+  Styling for OEC Presentation homepage
+*/
+
+body {
+  height: 100%;
+  margin: 0;
+  padding-left: 5%;
+  padding-right: 5%;
+  background: #f2f2f2;
+}
+
+h1,h2,h3,h4,h5,h6,p,a {
+  font-family: 'Avenir Next', Helvetica, sans-serif;
+}
+
+.flex {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.git {
+  height: 25px;
+}
+
+.desc {
+  margin-top: 0;
+}
+
+.links {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.links > a {
+  text-decoration: none;
+  font-size: 3em;
+  font-weight: 700;
+  color: #2e2e2e;
+  width: 30vw;
+  height: 30vw;
+}
+
+.links p {
+  margin: 0;
+  padding-left: 10px;
+}
+
+.links > a:hover {
+  color: #fff;
+  background: #e2e2e2;
+}
+
+.footer {
+  font-size: 1em;
+  text-align: center;
+}
+
+@media (min-width: 768px)
+  and (-webkit-min-device-pixel-ratio: 1) {
+    .links > a {
+      width: 15vw;
+      height: 15vw;
+    }
+}
