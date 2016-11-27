@@ -5,11 +5,13 @@ const lineBreak = '\n\n---\n\n'
 
 function makeMarkdown() {
   Object.keys(chapters).forEach(chapterNum => {
-    var data = `# Chapter ${chapterNum}\n## ${chapters[chapterNum].title}${lineBreak}`;
-    chapters[chapterNum].topics.forEach(topic => {
+    var chapterPath = `./chapters/${chapterNum}/${chapterNum}.json`;
+    var chapter = require(chapterPath)
+    var data = `# Chapter ${chapterNum}\n## ${chapter.title}${lineBreak}`;
+    chapter.topics.forEach(topic => {
       data += `## ${topic}${lineBreak}`;
     });
-    var filename = `./chapters/${chapterNum}.md`;
+    var filename = `./chapters/${chapterNum}/${chapterNum}.md`;
     fs.writeFile(filename, data, err => {
       err ? console.log(err) : console.log(`Saved chapter ${chapterNum}`);
     })
@@ -25,4 +27,4 @@ function splitJSON() {
   })
 }
 
-splitJSON()
+makeMarkdown()
