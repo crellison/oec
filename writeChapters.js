@@ -18,7 +18,6 @@ function makeMarkdown() {
       });
       data += lineBreak('-')
     });
-    data += `## [Home](./index.html)`
     var filename = `./chapters/${chapterNum}/${chapterNum}.md`;
     fs.writeFile(filename, data, err => {
       err ? console.log(err) : console.log(`Saved chapter ${chapterNum}`);
