@@ -11,12 +11,12 @@ function makeMarkdown() {
     var chapterPath = `./chapters/${chapterNum}/${chapterNum}.json`;
     var chapter = require(chapterPath)
     var data = `# Chapter ${chapterNum}\n## ${chapter.title}${lineBreak('-')}`;
-    chapter.topics.forEach(topic => {
+    chapter.topics.forEach((topic, i) => {
       data += `## ${topic.topic}`;
       topic.slides.forEach(slide => {
         data += `${lineBreak('^')}${slide}`;
       });
-      data += lineBreak('-')
+      if (i+1 !== chapter.topics.length)data += lineBreak('-')
     });
     var filename = `./chapters/${chapterNum}/${chapterNum}.md`;
     fs.writeFile(filename, data, err => {
