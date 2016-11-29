@@ -3,11 +3,24 @@
   "topics": [
     {
       "topic": "Physiologic Changes of Aging",
-      "slides": []
+      "slides": [
+        "### Decreased <b>[enter vital system here]</b>",
+        "### Side effects of medications",
+        "### Weakening of bone and skin tissue"
+      ]
     },
     {
       "topic": "Common Geriatric Illnesses and Conditions",
-      "slides": []
+      "slides": [
+        "### Altered Mental Status",
+        "### Hypertension",
+        "### Myocardial Infarction",
+        "### Congestive Heart Failure",
+        "### Syncope",
+        "### Stroke",
+        "### Chronic Obstructive Pulmonary Disorder (COPD)",
+        "### Abdominal Emergencies"
+      ]
     },
     {
       "topic": "Medication Use in the Elderly",
