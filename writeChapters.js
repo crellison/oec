@@ -14,7 +14,9 @@ function makeMarkdown() {
     chapter.topics.forEach((topic, i) => {
       data += `## ${topic.topic}`;
       topic.slides.forEach(slide => {
-        data += `${lineBreak('^')}${slide}`;
+        data += lineBreak('^')
+        if (typeof slide === 'string') data += slide;
+        else slide.forEach(line => data += `${line}  \n`)
       });
       if (i+1 !== chapter.topics.length)data += lineBreak('-')
     });

@@ -20,7 +20,8 @@ html
     .reveal
       .slides
         section(data-markdown, data-separator="^---$",  data-separator-vertical="^\\^\\^\\^$")
-          block slides
+          script(type="text/template")
+            block slides
       script(src="./static/head.min.js")
       script(src="./static/reveal.js")
       script.
