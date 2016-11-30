@@ -5,3 +5,6 @@ This repo is designed as a general study aide to prepare for the National Ski Pa
 I have been a patroller for almost four seasons now and am a certified OEC Instructor in the midst of assisting in the teaching of an OEC certification course for my third year.
 
 Interested in becoming a certified patroller? Head over to the [official NSP website](http://www.nsp.org/NSPMember/Get_Involved/Join_the_NSP_/NSPMember/About_Us/Membership.aspx) for more information about course materials and location. 
+
+Completed Chapters
+30
