@@ -28,7 +28,20 @@
     },
     {
       "topic": "Trauma Considerations in Elderly Patients",
-      "slides": []
+      "slides": [
+        [
+          "### Falls",
+          "![](http://i.giphy.com/DdotCCeucTHmU.gif)"
+        ],
+        [
+          "### Hip and Pelvic Fractures",
+          "![](http://i.giphy.com/13J4mAfd4iHC5G.gif)"
+        ],
+        [
+          "### Head and Neck Injuries",
+          "![](http://i.giphy.com/3oEdvck9Fl9gOQYFIk.gif)"
+        ]
+      ]
     },
     {
       "topic": "Elder Abuse",
@@ -36,11 +49,16 @@
     },
     {
       "topic": "Additional Considerations",
-      "slides": []
+      "slides": [
+        "### Medical",
+        "### Social"
+      ]
     },
     {
       "topic": "Assessment",
-      "slides": []
+      "slides": [
+        "### <b>SAMPLE</b>"
+      ]
     },
     {
       "topic": "Management",

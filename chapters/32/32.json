@@ -2,16 +2,38 @@
   "title": "Outdoor Adaptive Athletes",
   "topics": [
     {
-      "topic": "Common Disabilities",
+      "topic": "Disability vs Impairment",
       "slides": []
+    },
+    {
+      "topic": "Common Disabilities",
+      "slides": [
+        "### Intellectual Disabilities",
+        "### Cognitive Disabilities",
+        [
+          "### Physical Disabilities",
+          "(see page 1016)"
+        ],
+        "### Visual and Hearing Impairments"
+      ]
     },
     {
       "topic": "Adaptive Equipment",
-      "slides": []
+      "slides": [
+        "[![](https://i.ytimg.com/vi/Y2UkP0rySHA/maxresdefault.jpg)](https://www.youtube.com/watch?v=m-4t597dFoY)",
+        "[![](http://kellybrush.i9e.co/wp-content/uploads/sites/8/2015/04/DSC_0252-1024x680.jpg)](https://www.youtube.com/embed/IPxSTcmcO74)",
+        "### [Some Examples](http://adaptiveskiing.net/adaptive-skiing-equipment)",
+        "[![](https://i.ytimg.com/vi/Np5paWm6WiI/maxresdefault.jpg)](https://www.youtube.com/watch?v=Np5paWm6WiI)"
+      ]
     },
     {
       "topic": "Assessment",
-      "slides": []
+      "slides": [
+        "### <b>The disability is not the patient</b>",
+        "### <b>The patient is the patient</b>",
+        "### Intellectual Disabilities",
+        "### Physical Disabilities"
+      ]
     },
     {
       "topic": "Management",

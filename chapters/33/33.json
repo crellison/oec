@@ -7,7 +7,15 @@
     },
     {
       "topic": "Common Behavioral Emergencies",
-      "slides": []
+      "slides": [
+        "### Medical Disorders",
+        "### Chemical Exposures",
+        "### Trauma",
+        [
+          "### Behavioral Conditions",
+          "neurosis vs psychosis"
+        ]
+      ]
     },
     {
       "topic": "Death and Grief",
