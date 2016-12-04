@@ -32,7 +32,10 @@
         "### <b>The disability is not the patient</b>",
         "### <b>The patient is the patient</b>",
         "### Intellectual Disabilities",
-        "### Physical Disabilities"
+        [
+          "### Physical Disabilities",
+          "expressive aphasia <!-- .element: class=\"fragment\" -->"
+        ]
       ]
     },
     {

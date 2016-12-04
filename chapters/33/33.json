@@ -13,21 +13,41 @@
         "### Trauma",
         [
           "### Behavioral Conditions",
-          "neurosis vs psychosis"
+          "- neurosis vs psychosis <!-- .element: class=\"fragment\" data-fragment-index=\"1\" -->",
+          "- suicide <!-- .element: class=\"fragment\" data-fragment-index=\"2\" -->"
         ]
       ]
     },
     {
       "topic": "Death and Grief",
-      "slides": []
+      "slides": [
+        "### How to recognize death",
+        "### Understanding grief"
+      ]
     },
     {
       "topic": "Assessment",
-      "slides": []
+      "slides": [
+        "### __SCENE SAFETY__",
+        "### Do __not__ diagnose",
+        [
+          "### Maintain an escape route",
+          "![](http://i.giphy.com/4HTLVVn1WSmDC.gif)"
+        ],
+        "### Do not encourage their AMS"
+      ]
     },
     {
       "topic": "Management",
-      "slides": []
+      "slides": [
+        [
+          "### __Restraints__",
+          "- physical vs mechanical <!-- .element: class=\"fragment\" -->",
+          "- size of team <!-- .element: class=\"fragment\" -->",
+          "- positional asphyxia <!-- .element: class=\"fragment\" -->"
+        ],
+        "### When in doubt &rArr; local protocol"
+      ]
     }
   ]
 }
