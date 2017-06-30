@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "fs": "0.0.1-security",
-    "pug": "^2.0.0-beta6"
+    "pug": "^2.0.0-rc.2"
   }
 }

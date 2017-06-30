@@ -7,4 +7,4 @@ I have been a patroller for almost four seasons now and am a certified OEC Instr
 Interested in becoming a certified patroller? Head over to the [official NSP website](http://www.nsp.org/NSPMember/Get_Involved/Join_the_NSP_/NSPMember/About_Us/Membership.aspx) for more information about course materials and location. 
 
 Completed Chapters
-30
+30 - 33
