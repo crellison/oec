@@ -8,7 +8,8 @@
     "pugMake": "pug -P chapters/*/ -o dist",
     "ghPages": "git subtree push --prefix dist origin gh-pages",
     "markdown": "node ./writeChapters.js",
-    "draft": "npm run markdown && npm run pugMake",
+    "clean": "rimraf dist && mkdir dist",
+    "draft": "npm run clean && npm run markdown && npm run pugMake",
     "start": "npm run draft && npm run ghPages"
   },
   "author": "Cole Ellison",
