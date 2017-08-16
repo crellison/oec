@@ -1,0 +1,27 @@
+{
+  "short_name": "OEC Review",
+  "name": "OEC Review",
+  "start_url": "/?utm_source=homescreen",
+  "icons": [
+    {
+      "src": "images/touch/icon-128.png",
+      "type": "image/png",
+      "size": "128x128"
+    }, {
+      "src": "images/touch/icon-144.png",
+      "type": "image/png",
+      "size": "144x144"
+    }, {
+      "src": "images/touch/icon-152.png",
+      "type": "image/png",
+      "size": "152x152"
+    }, {
+      "src": "images/touch/icon-192.png",
+      "type": "image/png",
+      "size": "192x192"
+    }
+  ],
+  "background_color": "#003663",
+  "theme_color": "#003663",
+  "display": "standalone"
+}

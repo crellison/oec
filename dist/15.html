@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>OEC Chapter 15</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="./static/styles/reveal.css">
+    <link rel="stylesheet" href="./static/styles/simple.css">
+    <link rel="stylesheet" href="./static/styles/zenburn.css">
+    <link rel="stylesheet" href="./static/styles/style.css">
+    <link rel="manifest" href="./static/manifest.json">
+    <script>
+      var link = document.createElement( 'link' );
+      link.rel = 'stylesheet';
+      link.type = 'text/css';
+      link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : './static/styles/paper.css';
+      document.getElementsByTagName( 'head' )[0].appendChild( link );
+    </script>
+  </head>
+  <body><a id="home" href="/"><img class="git" src="static/images/home.svg" alt="home"></a>
+    <div class="reveal">
+      <div class="slides">
+        <section data-markdown data-separator="^---$" data-separator-vertical="^\^\^\^$">
+          <script type="text/template"># Chapter 15
+## Cardiovascular Emergencies
+
+---
+
+## Anatomy and Physiology
+
+---
+
+## Cardiovascular Emergencies
+
+---
+
+## Assessment
+
+---
+
+## Management
+          </script>
+        </section>
+      </div>
+      <script src="./static/head.min.js"></script>
+      <script src="./static/reveal.js"></script>
+      <script>
+        // More info https://github.com/hakimel/reveal.js#configuration
+        Reveal.initialize({
+          history: true,
+        
+          // More info https://github.com/hakimel/reveal.js#dependencies
+          dependencies: [
+            { src: './static/plugin/marked.js' },
+            { src: './static/plugin/markdown.js' },
+            { src: './static/plugin/notes.js', async: true },
+            { src: './static/plugin/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+          ]
+        });
+      </script>
+      <script src="./static/jquery-3.1.1.min.js"></script>
+    </div>
+  </body>
+</html>

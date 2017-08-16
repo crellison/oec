@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "assets": "cp -R static dist",
-    "clean": "rimraf dist && mkdir dist",
-    "draft": "npm run clean && npm run assets && npm run markdown && npm run pugMake",
+    "draft": "npm run assets && npm run markdown && npm run pugMake",
     "ghPages": "git subtree push --prefix dist origin gh-pages",
     "markdown": "node ./writeChapters.js",
     "pugMake": "pug -P chapters/*/ -o dist",

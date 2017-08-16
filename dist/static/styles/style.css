@@ -1,0 +1,108 @@
+/* 
+  Styling for OEC Presentation homepage
+*/
+
+:root {
+  --blue: #003663;
+  --red: #ED2024;
+  --grey: #f2f2f2;
+  --black: #2e2e2e;
+}
+
+body {
+  height: 100%;
+  background: var(--grey);
+}
+
+h1,h2,h3,h4,h5,h6,p,a {
+  font-family: 'Avenir Next', Helvetica, sans-serif;
+}
+
+.container {
+  padding-left: 5%;
+  padding-right: 5%;
+  margin: 0;
+}
+
+.flex {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.git {
+  width: 20px;
+}
+
+.desc {
+  margin-top: 0;
+}
+
+.links {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.links > a {
+  text-decoration: none;
+  color: var(--grey);
+  width: 29vw;
+  height: 29vw;
+  background: var(--blue);
+  border-bottom: 1vw solid var(--grey);
+  border-right: 1vw solid var(--grey);
+}
+
+.links .text {
+  margin: 0;
+  font-size: 3em;
+  font-weight: 700;
+}
+
+.links .title {
+  font-size: .7em;
+}
+
+.links .text, .links p {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 0;
+}
+
+.footer {
+  font-size: 1em;
+  text-align: center;
+}
+
+#home {
+  position: fixed;
+  top: 10px;
+  left: 50%;
+  margin-left: -10px;
+  z-index: 1;
+}
+
+@media (min-width: 768px)
+  and (-webkit-min-device-pixel-ratio: 1) {
+    .links > a {
+      color: var(--black);
+      width: 15vw;
+      height: 15vw;
+      background: none;
+      border: none;
+    }
+
+    .links p.title {
+      color: transparent;  
+    }
+
+    .links > a:hover {
+      color: var(--grey);
+      background: var(--blue);
+    }
+
+    .links > a:hover p.title{
+      color: var(--grey);
+    }
+}
