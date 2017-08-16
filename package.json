@@ -4,13 +4,14 @@
   "description": "slide presentations on OEC chapters",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "pugMake": "pug -P chapters/*/ -o dist",
+    "assets": "cp -R static dist",
+    "clean": "rimraf dist && mkdir dist",
+    "draft": "npm run clean && npm run assets && npm run markdown && npm run pugMake",
     "ghPages": "git subtree push --prefix dist origin gh-pages",
     "markdown": "node ./writeChapters.js",
-    "clean": "rimraf dist && mkdir dist",
-    "draft": "npm run clean && npm run markdown && npm run pugMake",
-    "start": "npm run draft && npm run ghPages"
+    "pugMake": "pug -P chapters/*/ -o dist",
+    "start": "npm run draft && npm run ghPages",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Cole Ellison",
   "license": "MIT",
@@ -18,5 +19,8 @@
     "fs": "0.0.1-security",
     "pug": "^2.0.0-rc.2",
     "pug-cli": "^1.0.0-alpha6"
+  },
+  "devDependencies": {
+    "rimraf": "^2.6.1"
   }
 }

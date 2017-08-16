@@ -1,22 +1,23 @@
 doctype html
-html
+html(lang="en")
   head
     block title
     meta(charset="utf-8")
     meta(name="viewport", content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no")
-    link(rel="stylesheet", href="./static/reveal.css")
-    link(rel="stylesheet", href="./static/simple.css")
-    link(rel="stylesheet", href="./static/zenburn.css")
-    link(rel="stylesheet", href="./static/style.css")
+    link(rel="stylesheet", href="./static/styles/reveal.css")
+    link(rel="stylesheet", href="./static/styles/simple.css")
+    link(rel="stylesheet", href="./static/styles/zenburn.css")
+    link(rel="stylesheet", href="./static/styles/style.css")
+    link(rel="manifest" href="./static/manifest.json")
     script.
       var link = document.createElement( 'link' );
       link.rel = 'stylesheet';
       link.type = 'text/css';
-      link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : './static/paper.css';
+      link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : './static/styles/paper.css';
       document.getElementsByTagName( 'head' )[0].appendChild( link );
   body
     a#home(href="/")
-      img.git(src="static/home.svg" alt="home")
+      img.git(src="static/images/home.svg" alt="home")
     .reveal
       .slides
         section(data-markdown, data-separator="^---$",  data-separator-vertical="^\\^\\^\\^$")
