@@ -2,7 +2,7 @@
 const CACHE_NAME = 'oec-review-site';
 const urlsToCache = [
   '/',
-  '/styles/style.css',
+  '/static/styles/style.css',
 ];
 
 self.addEventListener('install', event => {
