@@ -2,9 +2,16 @@
   Styling for OEC Presentation homepage
 */
 
+:root {
+  --blue: rgb(0, 54, 99);
+  --red: rgb(237, 32, 36);
+  --grey: #f2f2f2;
+  --black: #2e2e2e;
+}
+
 body {
   height: 100%;
-  background: #f2f2f2;
+  background: var(--grey);
 }
 
 h1,h2,h3,h4,h5,h6,p,a {
@@ -39,9 +46,12 @@ h1,h2,h3,h4,h5,h6,p,a {
 
 .links > a {
   text-decoration: none;
-  color: #2e2e2e;
-  width: 30vw;
-  height: 30vw;
+  color: var(--grey);
+  width: 29vw;
+  height: 29vw;
+  background: var(--blue);
+  border-bottom: 1vw solid var(--grey);
+  border-right: 1vw solid var(--grey);
 }
 
 .links .text {
@@ -52,7 +62,6 @@ h1,h2,h3,h4,h5,h6,p,a {
 
 .links .title {
   font-size: .7em;
-  color: transparent;
 }
 
 .links .text, .links p {
@@ -77,16 +86,23 @@ h1,h2,h3,h4,h5,h6,p,a {
 @media (min-width: 768px)
   and (-webkit-min-device-pixel-ratio: 1) {
     .links > a {
+      color: var(--black);
       width: 15vw;
       height: 15vw;
+      background: none;
+      border: none;
+    }
+
+    .links p.title {
+      color: transparent;  
     }
 
     .links > a:hover {
-      color: #2e2e2e;
-      background: #fee715;
+      color: var(--grey);
+      background: var(--blue);
     }
 
     .links > a:hover p.title{
-      color: #2e2e2e;
+      color: var(--grey);
     }
 }
