@@ -12,6 +12,7 @@
 body {
   height: 100%;
   background: var(--grey);
+  margin: 0;
 }
 
 h1,h2,h3,h4,h5,h6,p,a {
@@ -19,6 +20,7 @@ h1,h2,h3,h4,h5,h6,p,a {
 }
 
 .container {
+  width: 90%;
   padding-left: 5%;
   padding-right: 5%;
   margin: 0;

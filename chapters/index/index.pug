@@ -1,57 +1,61 @@
 extends ../layout.pug
 
+block title
+  title OEC Review
+
 block content
-  .topBar
-    .flex
-      h1 OEC Review
-      a(href="http://github.com/crellison/oec")
-        img.git(src="static/images/Github-black.svg")
-    p.desc This set of presentations is designed as a general study aide to prepare for the National Ski Patrol Outdoor Emergency Care Certification test. While the presentations do not contain large chunks of text and should not replace flash-cards or other content-right study techniques, they may point you toward key topics and considerations from each chapter. It is not affiliated with any official NSP publications and is not endorsed by NSP. The materials here cannot substitute for the OEC 5th Edition text and are not intended to act as a replacement to the text.
-    p.desc The presentations on this site are still under construction. While all are linked to presentations, many include only the chapter subheadings.
-    p.desc Current Completed Chapters: 30 - 33
-  .links
-    - 
-      var chapters = { 
-        1: "Introduction to Outdoor Emergency Care",
-        2: "Emergency Care Systems",
-        3: "Rescue Basics",
-        4: "Incident Command and Triage",
-        5: "Moving, Lifting, and Transporting Patients",
-        6: "Anatomy and Physiology",
-        7: "Patient Assessment",
-        8: "Medical Communications and Documentation",
-        9: "Airway Management",
-        10:" Shock",
-        11:" Altered Mental Status",
-        12:" Substance Abuse and Poisoning",
-        13:" Respiratory Emergencies",
-        14:" Allergies and Anaphylaxis",
-        15:" Cardiovascular Emergencies",
-        16:" Gastrointestinal and Genitourinary Emergencies",
-        17:" Principles of Trauma",
-        18:" Soft-Tissue Injuries",
-        19:" Burns",
-        20:" Musculoskeletal Injuries",
-        21:" Head and Spine Injuries",
-        22:" Face, Eye, and Neck Injuries",
-        23:" Thoracic Trauma",
-        24:" Abdominal and Pelvic Injuries",
-        25:" Cold-Related Emergencies",
-        26:" Heat Related Emergencies",
-        27:" Plant and Animal Emergencies",
-        28:" Altitude-Related Emergencies",
-        29:" Water Emergencies",
-        30:" Pediatric Emergencies",
-        31:" Geriatric Emergencies",
-        32:" Outdoor Adaptive Athletes",
-        33:" Behavioral Emergencies and Crisis Response",
-        34:" Obstetric and Gynecologic Emergencies",
-        35:" Special Operations and Ambulance Operations",
-        36: "ALS Interface"
-      }
-    - for (var i = 1; i < 37; i++) 
-      a(href=`./${i}.html`)
-        p.text= i<10 ? '0'+i : i
-        p.title= chapters[i]
-  .footer
-    p &copy; 2016 Cole Ellison
+  .container
+    .topBar
+      .flex
+        h1 OEC Review
+        a(href="http://github.com/crellison/oec")
+          img.git(src="static/images/Github-black.svg")
+      p.desc This set of presentations is designed as a general study aide to prepare for the National Ski Patrol Outdoor Emergency Care Certification test. While the presentations do not contain large chunks of text and should not replace flash-cards or other content-right study techniques, they may point you toward key topics and considerations from each chapter. It is not affiliated with any official NSP publications and is not endorsed by NSP. The materials here cannot substitute for the OEC 5th Edition text and are not intended to act as a replacement to the text.
+      p.desc The presentations on this site are still under construction. While all are linked to presentations, many include only the chapter subheadings.
+      p.desc Current Completed Chapters: 30 - 33
+    .links
+      - 
+        var chapters = { 
+          1: "Introduction to Outdoor Emergency Care",
+          2: "Emergency Care Systems",
+          3: "Rescue Basics",
+          4: "Incident Command and Triage",
+          5: "Moving, Lifting, and Transporting Patients",
+          6: "Anatomy and Physiology",
+          7: "Patient Assessment",
+          8: "Medical Communications and Documentation",
+          9: "Airway Management",
+          10:" Shock",
+          11:" Altered Mental Status",
+          12:" Substance Abuse and Poisoning",
+          13:" Respiratory Emergencies",
+          14:" Allergies and Anaphylaxis",
+          15:" Cardiovascular Emergencies",
+          16:" Gastrointestinal and Genitourinary Emergencies",
+          17:" Principles of Trauma",
+          18:" Soft-Tissue Injuries",
+          19:" Burns",
+          20:" Musculoskeletal Injuries",
+          21:" Head and Spine Injuries",
+          22:" Face, Eye, and Neck Injuries",
+          23:" Thoracic Trauma",
+          24:" Abdominal and Pelvic Injuries",
+          25:" Cold-Related Emergencies",
+          26:" Heat Related Emergencies",
+          27:" Plant and Animal Emergencies",
+          28:" Altitude-Related Emergencies",
+          29:" Water Emergencies",
+          30:" Pediatric Emergencies",
+          31:" Geriatric Emergencies",
+          32:" Outdoor Adaptive Athletes",
+          33:" Behavioral Emergencies and Crisis Response",
+          34:" Obstetric and Gynecologic Emergencies",
+          35:" Special Operations and Ambulance Operations",
+          36: "ALS Interface"
+        }
+      - for (var i = 1; i < 37; i++) 
+        a(href=`./${i}.html`)
+          p.text= i<10 ? '0'+i : i
+          p.title= chapters[i]
+    .footer
+      p &copy; 2016 Cole Ellison

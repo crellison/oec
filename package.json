@@ -4,7 +4,7 @@
   "description": "slide presentations on OEC chapters",
   "main": "index.js",
   "scripts": {
-    "assets": "cp -R static dist",
+    "assets": "rimraf dist/static && cp -R static dist",
     "draft": "npm run assets && npm run markdown && npm run pugMake",
     "ghPages": "git subtree push --prefix dist origin gh-pages",
     "markdown": "node ./writeChapters.js",
