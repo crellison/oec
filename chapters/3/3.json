@@ -3,19 +3,43 @@
   "topics": [
     {
       "topic": "Anatomy and Physiology",
-      "slides": []
+      "slides": [
+        "## Homeostasis",
+        [
+          "### Temperature regulation",
+          "- conduction",
+          "- convection",
+          "- radiation",
+          "- evaporation"
+        ],
+        "## Fight or Flight",
+        "## Immune Response"
+      ]
     },
     {
       "topic": "Preparing to Work Outdoors",
-      "slides": []
+      "slides": [
+        "![](./static/images/markdown/remote.jpg)",
+        "## We work in remote areas",
+        "## Proper layers and equipment will keep you safe"
+      ]
     },
     {
       "topic": "Protecting Yourself from Disease",
-      "slides": []
+      "slides": [
+        "## Common Infectious Diseases (pg. 74-6)",
+        "## BSI and PPE",
+        "## Glove Removal"
+      ]
     },
     {
       "topic": "Assessing Emergency Situations",
-      "slides": []
+      "slides": [
+        "## Scene Safety",
+        "## Mechanism of Injury",
+        "## Nature of Illness",
+        "## Triage and Multiple Patients"
+      ]
     },
     {
       "topic": "Dealing with Hazardous Materials",
