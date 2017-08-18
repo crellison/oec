@@ -3,11 +3,22 @@
   "topics": [
     {
       "topic": "The History of Emergency Care",
-      "slides": []
+      "slides": [
+        "## Emergency Care System",
+        "## Emergency Medical Services",
+        [
+          "### Future agenda",
+          "Maintain and improve the standard of care <!-- .element: class=\"fragment\" -->"
+        ]
+      ]
     },
     {
       "topic": "Levels of Emergency Personnel",
-      "slides": []
+      "slides": [
+        "## EMR vs EMT vs AEMT vs Paramedic",
+        "## prehospital provider",
+        "## Scope of Practice"
+      ]
     },
     {
       "topic": "Emergency Facilities",
@@ -19,7 +30,10 @@
     },
     {
       "topic": "The Importance of Commonality in Emergency Care",
-      "slides": []
+      "slides": [
+        "## Everyone can do something",
+        "## Give everyone a task"
+      ]
     },
     {
       "topic": "The Relationship of Emergency Care Systems to Public Health",
@@ -31,7 +45,13 @@
     },
     {
       "topic": "Communication Systems in Emergency Care Systems",
-      "slides": []
+      "slides": [
+        [
+          "### Radio Etiquitte",
+          "- terse and precise",
+          "- adhere to local standards"
+        ]
+      ]
     },
     {
       "topic": "Medical Oversight in Emergency Care Systems",
