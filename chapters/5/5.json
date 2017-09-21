@@ -3,23 +3,88 @@
   "topics": [
     {
       "topic": "The Body Mechanics of Lifting",
-      "slides": []
+      "slides": [
+        "## The Patient Package",
+        "## Proper body mechanics prevent injury"
+      ]
     },
     {
       "topic": "Devices and Equipment",
-      "slides": []
+      "slides": [
+        "## Spine Boards and Stretchers",
+        "![](./static/images/markdown/corbashed.jpg)"
+      ]
     },
     {
       "topic": "Moving a Patient",
-      "slides": []
+      "slides": [
+        [
+          "## Three required moves",
+          "- ground to toboggan",
+          "- toboggan to exam table",
+          "- exam table to higher care transport"
+        ],
+        [
+          "## Urgent moves",
+          "- done in situations that endanger the patroller or patient",
+          "- only when rapid transport is required",
+          "- typically a form of drag"
+        ],
+        [
+          "## Nonurgent moves",
+          "- assists and carrys"
+        ],
+        "## Carrying patients is HARD"
+      ]
     },
     {
       "topic": "Lifting the Patient",
-      "slides": []
+      "slides": [
+        "## Power grip and lift",
+        "## BEAN and BEAM lifts"
+      ]
     },
     {
       "topic": "Transporting Patients",
-      "slides": []
+      "slides": [
+        [
+          "## Body Positions",
+          "- influenced by patient's distress and chief complaint",
+          "- patient position is critical, as certain positions can cause conditions to worsen"
+        ],
+        "## Scenarios",
+        [
+          "[![](./static/images/markdown/George.jpg)](https://www.youtube.com/watch?v=FYhP0w2BXgg)",
+          "George Jedenoff, a Utah skiing legend, was shredding powder when he suddenly collapsed. How should you package him when you bring him for an examination?"
+        ],
+        [
+          "## Rothberg Position",
+          "George's sudden collapse and age indicate a possible heart attack"
+        ],
+        [
+          "![](./static/images/markdown/minorInjury.jpg)",
+          "You respond to a patient who had a yardsale and can't bear weight on their ankle. Which position is recommended to use in when transporting this patient?"
+        ],
+        [
+          "## Semi-fowler Position",
+          "The patient had no major injury"
+        ],
+        [
+          "![](./static/images/markdown/treeCrash.jpg)",
+          "You respond to a skier who has crashed into a tree on a steep run and is point tender on their lumbar. How should they be positioned in transport?"
+        ],
+        [
+          "## Supine Position",
+          "The lumbar pain indicates a possible spinal injury"
+        ],
+        [
+          "## Ground Transport",
+          "[![](./static/images/markdown/patrolOlympics.png)](https://vimeo.com/40733672)",
+          "Head uphill or downhill?"
+        ],
+        "## Air Transport",
+        "[![](./static/images/markdown/dhart.jpg)](http://www.dartmouth-hitchcock.org/dhart.html)"
+      ]
     },
     {
       "topic": "CPR During Transport",
