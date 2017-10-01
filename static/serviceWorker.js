@@ -1,7 +1,7 @@
 
 const CACHE_NAME = 'oec-review-site';
 const urlsToCache = [
-  '/',
+  '../',
   '1.html',
   '2.html',
   '3.html',
