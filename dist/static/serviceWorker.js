@@ -1,9 +1,6 @@
 
 const CACHE_NAME = 'oec-review-site';
-const urlsToCache = [
-  './static/styles/style.css',
-  './*.html'
-];
+const urlsToCache = require('./URL_EXPORT.js');
 
 self.addEventListener('install', event => {
   event.waitUntil(
