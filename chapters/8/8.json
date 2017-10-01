@@ -3,7 +3,12 @@
   "topics": [
     {
       "topic": "Communication Basics",
-      "slides": []
+      "slides": [
+        [
+          "![](./static/images/markdown/navajo-code-talkers.jpg)",
+          "Which components of communication are present in this image of Navajo code talkers from WWII?"
+        ]
+      ]
     },
     {
       "topic": "Forms of Communication",
@@ -11,7 +16,19 @@
     },
     {
       "topic": "Medical Communications",
-      "slides": []
+      "slides": [
+        "## What to say (SAILER)",
+        [
+          "![](./static/images/markdown/kristina-balic-63248.jpg)",
+          "### SOAP Notes"
+        ],
+        [
+          "![](https://media.giphy.com/media/z1cAVU4F3bIU8/giphy.gif)",
+          "### What to write (CHEATED)"
+        ],
+        "### Accurate History is Key",
+        "### Refusal of Care"
+      ]
     }
   ]
 }
