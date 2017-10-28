@@ -23,8 +23,8 @@ function makeMarkdown() {
     var filename = `./chapters/${chapterNum}/${chapterNum}.md`;
     fs.writeFile(filename, data, err => {
       err ? console.log(err) : console.log(`Saved chapter ${chapterNum}`);
-    })
-  })
+    });
+  });
 }
 
 function splitJSON() {
@@ -44,4 +44,4 @@ function splitJSON() {
 }
 
 // splitJSON()
-makeMarkdown()
+makeMarkdown();

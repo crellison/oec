@@ -11,10 +11,10 @@ block content
         a(href="http://github.com/crellison/oec")
           img.git(src="static/images/Github-black.svg")
       p.desc This set of presentations is designed as a general study aid to prepare for the National Ski Patrol Outdoor Emergency Care (OEC) Certification test. I am a certified OEC Instructor, and have participated in instructing the certification class since 2014. The slideshows on this page are a standardized and simplified version of what I use to teach chapters of the text. Not all have been used for instruction, but all are influenced by the presentations of my peers and colleagues at the Middlebury Ski Patrol. While the presentations do not contain large chunks of text and should not replace flash-cards or other content-right study techniques, they may point you toward key topics and considerations from each chapter. This site is not affiliated with any official NSP publications and is not endorsed by NSP. The materials here cannot substitute for the OEC 5th Edition text and are not intended to act as a replacement to the text.
-      p.desc The presentations on this site are still under construction. While all are linked to presentations, many include only the chapter subheadings.
-      p.desc Current Completed Chapters: 1 - 8, 10, 30 - 33
+      p.desc As new presentations are finished, I will add them to the homepage.
     .links
       - 
+        var completed = [1,2,3,4,5,6,7,8,10,30,31,32,33]
         var chapters = { 
           1: "Introduction to Outdoor Emergency Care",
           2: "Emergency Care Systems",
@@ -54,11 +54,11 @@ block content
           36: "ALS Interface"
         }
       - for (var i = 1; i < 37; i++) 
-        a(href=`./${i}.html`)
+        a(href=`./${i}.html` class=completed.indexOf(i) == -1 ? "unpublished" : "")
           p.text= i<10 ? '0'+i : i
           p.title= chapters[i]
     .footer
-      p &copy; 2016 Cole Ellison
+      p &copy; 2017 Cole Ellison
     script.
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
