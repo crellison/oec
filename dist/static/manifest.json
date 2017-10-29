@@ -1,0 +1,60 @@
+{
+  "short_name": "OEC Review",
+  "name": "OEC Review",
+  "start_url": "/?utm_source=homescreen",
+  "icons": [
+    {
+      "src": "images/touch/icon-128.png",
+      "type": "image/png",
+      "size": "128x128"
+    },
+    {
+      "src": "images/touch/icon-144.png",
+      "type": "image/png",
+      "size": "144x144"
+    },
+    {
+      "src": "images/touch/icon-152.png",
+      "type": "image/png",
+      "size": "152x152"
+    },
+    {
+      "src": "images/touch/android-chrome-192x192",
+      "type": "image/png",
+      "size": "192x192"
+    },
+    {
+      "src": "images/touch/apple-touch-icon-120x120.png",
+      "type": "image/png",
+      "size": "120x120"
+    },
+    {
+      "src": "images/touch/apple-touch-icon-152x152.png",
+      "type": "image/png",
+      "size": "152x152"
+    },
+    {
+      "src": "images/touch/apple-touch-icon-180x180.png",
+      "type": "image/png",
+      "size": "180x180"
+    },
+    {
+      "src": "images/touch/apple-touch-icon-60x60.png",
+      "type": "image/png",
+      "size": "60x60"
+    },
+    {
+      "src": "images/touch/apple-touch-icon-76x76.png",
+      "type": "image/png",
+      "size": "76x76"
+    },
+    {
+      "src": "images/touch/apple-touch-icon.png",
+      "type": "image/png",
+      "size": "180x180"
+    }
+  ],
+  "background_color": "#003663",
+  "theme_color": "#003663",
+  "display": "standalone"
+}
