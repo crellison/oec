@@ -1,9 +1,0 @@
-node_modules
-out/
-npm-debug.log
-.tmp
-.DS_Store
-.idea/
-*.swp
-
-dist
